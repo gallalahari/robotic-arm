@@ -1,0 +1,17 @@
+In this project, we have built a simple Robotic Arm, which is fully automated to do certain tasks. Apart from the Microcontroller (we have used Arduino UNO) and servo motors, all other components that are part of the arm were collected from office scrap.
+->Parts used:
+1) servo motors.
+2) a platforn of 11 cm* 7 cm.
+3) wooden material for arm construction.
+4) arduino.
+5) Batteries(5 V).
+->step by step construction.
+1) We used  11 cm* 7 cm board to make some electrical connections and also fix the Arduino board and second vertical servo. We cut the unwanted parts from the board and shape is as per the dimensions mentioned above.
+2) we glued the servo horn to the backside of the board, right at the center. This horn will be later connected to the horizontal servo.
+The servo horn has a hole for it to be fixed to a servo motor. But we need to drill a hole through the board to screw the servo to the board.
+We have used a high torque motor we found in an old printer in order to drill the hole.
+3)For the servo horn to be fixed firmly to the board, we soldered some lead to the board over the arms of servo horn.From the next step onwards, we started constructing the main Arm part of the robot.
+4) we started with the holder servo, the servo that actually holds the objects. For this, we used some gears.we selected two similar gears with equal teeth count and screw one gear to the output spline of the servo. Ensure that the gear is screwed firmly to the servo.
+5)we need to hold the second gear firmly to the servo. For this, we used epoxy compound.we  constructed the object holding parts. Two plastic pieces from an old toy were taken for this purpose.Slightly heat the plastic and bend one end as shown. This structure can be easy to hold different object.
+6)Similarly we constructed upper part of the arm with the help of remaining servos and finally the bot is ready to get implemented.
+7)We used Arduino software to run the code.And the power suply is not from arduino itself but from the batteries or external voltage setup.
